@@ -1,0 +1,7 @@
+C:\Users\Olli-Pekka\source\repos\Nortal\Nortal\obj\Debug\Nortal.csprojResolveAssemblyReference.cache
+C:\Users\Olli-Pekka\source\repos\Nortal\Nortal\obj\Debug\Nortal.csproj.CoreCompileInputs.cache
+C:\Users\Olli-Pekka\source\repos\Nortal\Nortal\bin\Debug\Nortal.exe.config
+C:\Users\Olli-Pekka\source\repos\Nortal\Nortal\bin\Debug\Nortal.exe
+C:\Users\Olli-Pekka\source\repos\Nortal\Nortal\bin\Debug\Nortal.pdb
+C:\Users\Olli-Pekka\source\repos\Nortal\Nortal\obj\Debug\Nortal.exe
+C:\Users\Olli-Pekka\source\repos\Nortal\Nortal\obj\Debug\Nortal.pdb
